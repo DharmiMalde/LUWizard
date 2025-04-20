@@ -1,8 +1,6 @@
 # 🔢 LUWizard: A Gaussian Elimination Solver with Benchmarking
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-Completed-brightgreen)
 
 An educational project implementing LU decomposition using **Gaussian Elimination with Partial Pivoting** from scratch in Python. This solver is benchmarked against SciPy’s built-in LU solver in terms of both speed and numerical accuracy.
 
@@ -34,6 +32,7 @@ An educational project implementing LU decomposition using **Gaussian Eliminatio
 ## 📊 Benchmarking
 
 Tested with random square matrices of sizes:
+
 n = 10,50,100,400,800,1000
 
 
